@@ -30,6 +30,7 @@ Untuk melakukan konfigurasi di Git dapat menggunakan langkah berikut :
   <li>Setelah mengetikkan dua langkah yang diatas, selanjutnya kita akan ketik <b> $ git config --list</b> untuk melihat hasilnya</li>
   <li> Jika sudah maka hasilnya akan seperti ini ![Konfigurasi Git Ku](https://user-images.githubusercontent.com/91443673/135025310-9e09ea02-4f7f-4059-ac21-3dd44029fd5a.png)</li>
 </ol>
+
 <h1>Membuat Repository</h1>
 
 Untuk membuat Repository dapat menggunakan langkah berikut :
@@ -38,5 +39,25 @@ Untuk membuat Repository dapat menggunakan langkah berikut :
   <li>Login ke halaman https://github.com/</li>
   <li>Setelah itu klik +. Pilih <b>New Repository</b></li>
   <li>Setelah itu masukan <b>Repository name</b>. Kita bisa menambahkan deskripsi, mengatur repository menjadi public atau private, dan lisensi</li>
-  <li>Terakhir kita klik <b>Create repository</li>
+  <li>Terakhir kita klik <b>Create repository</b></li>
 </ol>
+
+<h1>Clone Repository</h1>
+
+Untuk melakukan Clone Repository dapat menggunakan langkah berikut :
+
+<ol>
+  <li>Kita buat dulu folder untuk menyimpan Hasil Clone Repository kita</li>
+  <li>Setelah itu kita klik kanan pada folder yang kita buat, lalu klik <b>Git Bash Here</b></li>
+  <li>Setelah itu kita masuk ke halaman https://github.com, di bagian repository kita pilih <b>Code</b> dan kita salin link HTTPS</li>
+  <li> Setelah itu kita copykan link tersebut di <b>Git Bash Here</b> yang sudah kita buka tadi dengan mengetikkan,"git clone (Link HTTPS)"
+</ol>
+
+<br>$ git clone https://github.com/rasyidnugroho/01-mppl.git
+<br>Cloning into '01-mppl'...
+<br>remote: Enumerating objects: 9, done.
+<br>remote: Counting objects: 100% (9/9), done.
+<br>remote: Compressing objects: 100% (8/8), done.
+<br>remote: Total 9 (delta 1), reused 0 (delta 0), pack-reused 0
+<br>Receiving objects: 100% (9/9), done.
+<br>Resolving deltas: 100% (1/1), done.
