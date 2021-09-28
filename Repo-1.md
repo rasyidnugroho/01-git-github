@@ -37,6 +37,6 @@ Untuk membuat Repository dapat menggunakan langkah berikut :
 <ol>
   <li>Login ke halaman https://github.com/</li>
   <li>Setelah itu klik +. Pilih <b>New Repository</b></li>
-  <li>Setelah itu masukan <b>Repository name</b>. Anda bisa menambahkan deskripsi, mengatur repository menjadi public atau private, dan lisensi</li>
+  <li>Setelah itu masukan <b>Repository name</b>. Kita bisa menambahkan deskripsi, mengatur repository menjadi public atau private, dan lisensi</li>
   <li>Terakhir kita klik <b>Create repository</li>
 </ol>
