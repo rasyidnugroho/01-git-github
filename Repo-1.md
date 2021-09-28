@@ -1,5 +1,7 @@
 <h1>Menginstall Git</h1>
+
 Step-Step untuk menginstall Git :
+
 <ol>
   <li>Download terlebih dahulu di https://git-scm.com/downloads</li>
   <li>Jika sudah ter-download, Jalankan aplikasi Git</li>
@@ -16,12 +18,25 @@ Step-Step untuk menginstall Git :
   <li>Setelah itu proses instalasi akan dilakukan.</li>
   <li>Jika sudah selesai Klik <b>Finish.</b>
 </ol>
+
 <h1> Konfigurasi Git</h1>
+
 Untuk melakukan konfigurasi di Git dapat menggunakan langkah berikut :
+
 <ol>
   <li>Buka Command Prompt atau Git Bash</li>
   <li>Ketikkan <b>$ git config --global user.name "Nama Anda di GitHub"</b></li>
   <li>Ketikkan <b>$ git config --global user.email email@domain.tld</b></li>
   <li>Setelah mengetikkan dua langkah yang diatas, selanjutnya kita akan ketik <b> $ git config --list</b> untuk melihat hasilnya</li>
   <li> Jika sudah maka hasilnya akan seperti ini ![Konfigurasi Git Ku](https://user-images.githubusercontent.com/91443673/135025310-9e09ea02-4f7f-4059-ac21-3dd44029fd5a.png)</li>
+</ol>
+<h1>Membuat Repository</h1>
+
+Untuk membuat Repository dapat menggunakan langkah berikut :
+
+<ol>
+  <li>Login ke halaman https://github.com/</li>
+  <li>Setelah itu klik +. Pilih <b>New Repository</b></li>
+  <li>Setelah itu masukan <b>Repository name</b>. Anda bisa menambahkan deskripsi, mengatur repository menjadi public atau private, dan lisensi</li>
+  <li>Terakhir kita klik <b>Create repository</li>
 </ol>
